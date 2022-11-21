@@ -1,5 +1,9 @@
 @import 'init.css';
 
+#articles-container {
+  max-width: 500px;
+}
+
 #articles-container h1 {
   display: inline;
   font-size: 18px;
